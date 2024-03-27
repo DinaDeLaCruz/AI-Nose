@@ -11,6 +11,7 @@ distinguishing explosive materials (including different types of gunpowder and T
 Additionally, the models will predict the concentration of these materials. To achieve this, we
 employed two linear techniques (Partial Least Squares and Logistic Regression) alongside two non-linear approaches
 (Multilayer Perceptron Neural Network and Long Short-Term Memory network).
+
 ---
 
 ### Experiment Description
@@ -19,7 +20,7 @@ To assess the e-nose prototype's ability to identify and measure explosive subst
 Each database entry represents an experiment where the responses of six chemical sensors were recorded over a specific
 time period.
 
-<img src="Files\Fig1.svg" width="55%" height="10%" style="margin-left:10%">
+<img src="Files\Fig1.svg" width="70%" height="20%" style="margin-left:10%">
 
 #### Table Summary:
 <table>
