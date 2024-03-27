@@ -110,5 +110,5 @@ For this reason, the data from both database 1 and database 2 were first examine
 ### User interface
 
 <div style="margin: 0 auto; width: fit-content; text-align: center;">
-    <img src="Files\HMI.PNG" style="height:20%;width:90%">
+    <img src="Files\HMI.png" style="height:20%;width:90%">
 </div>
