@@ -85,6 +85,7 @@ For this reason, the data from both database 1 and database 2 were first examine
 for the preprocessing of the data. This algorithm consists of the following steps:
 
 - Filter implementation
+
 <p align="center">
     <img src="Files\Fig1.svg" style="height:20%;width:90%">
 </p>
@@ -107,11 +108,27 @@ for the preprocessing of the data. This algorithm consists of the following step
 
 ---
 
-### Models
+### Training and Evaluation
+
+To evaluate the e-nose prototype's ability to distinguish between different substances, key tasks were chosen. 
+These tasks involve identifying:
+
+1. Explosive substances in pure form and mixtures
+2. Only explosive substances in pure form
+3. Only gunpowder in pure form 
+4. Only TNT in pure form 
+5. Gunpowder in pure form and TNT in pure form 
+6. Gunpowder in pure form and gunpowder mixture 
+7. TNT in pure form and TNT mixture
+
+To ensure a fair and robust evaluation, the data for each task was randomly divided into training (70%) and testing (
+30%) sets.
+
 
 ---
 
 ### User interface
+
 <p>
 The figure below shows the resulting interface for evaluating and retraining generated models.
 </p>
