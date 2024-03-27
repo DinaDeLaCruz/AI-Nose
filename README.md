@@ -121,4 +121,3 @@ The figure below shows the resulting interface for evaluating and retraining gen
 
 ---
 
-### Conclusions
