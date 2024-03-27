@@ -20,7 +20,7 @@ To assess the e-nose prototype's ability to identify and measure explosive subst
 Each database entry represents an experiment where the responses of six chemical sensors were recorded over a specific
 time period.
 
-<img src="Files\Fig1.svg" width="70%" height="20%" style="margin-left:10%">
+<img src="Files\Fig1.svg" width="70%" height="20%" style="margin-left:20%;">
 
 #### Table Summary:
 <table>
