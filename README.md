@@ -86,7 +86,7 @@ For this reason, the data from both database 1 and database 2 were first examine
 </div>
 - Baseline correction
 <div style="margin: 0 auto; width: fit-content; text-align: center;">
-    <img src="Files\Fig2.svg" style="height:20%;width:60%">
+    <img src="Files\Fig2.svg" style="height:20%;width:40%">
 </div>
 - Peak alignment
 <div style="margin: 0 auto; width: fit-content; text-align: center;">
