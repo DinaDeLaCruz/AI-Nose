@@ -18,10 +18,11 @@ employed two linear techniques (Partial Least Squares and Logistic Regression) a
 
 To assess the e-nose prototype's ability to identify and measure explosive substances, two separate databases were used.
 Each database entry represents an experiment where the responses of six chemical sensors were recorded over a specific
-time period.
+time period. Figure 1 illustrates an example of this data.
 
 <div style="margin: 0 auto; width: fit-content; text-align: center;">
     <img src="Files\Fig0.svg" style="height:20%;width:90%">
+    <figcaption>Figure 1: The response of three experiments</figcaption>
 </div>
 
 #### Table Summary:
@@ -81,25 +82,25 @@ The quality of the training data will determine how effectively the machine lear
 For this reason, the data from both database 1 and database 2 were first examined. A Python algorithm was then developed for the preprocessing of the training data. This algorithm consists of the following steps:
 
 - Implementation of a filter
-<div style="margin: 0 auto; width: fit-content; text-align: center;">
+<p align="center">
     <img src="Files\Fig1.svg" style="height:20%;width:90%">
-</div>
+</p>
 - Baseline correction
-<div style="margin: 0 auto; width: fit-content; text-align: center;">
+<p align="center">
     <img src="Files\Fig2.svg" style="height:20%;width:40%">
-</div>
+</p>
 - Peak alignment
-<div style="margin: 0 auto; width: fit-content; text-align: center;">
+<p align="center">
     <img src="Files\Fig3.svg" style="height:20%;width:90%">
-</div>
+</p>
 - Sensor concatenation
 <div style="margin: 0 auto; width: fit-content; text-align: center;">
     <img src="Files\Fig4.svg" style="height:20%;width:90%">
 </div>
 - Outlier detection and removal
-<div style="margin: 0 auto; width: fit-content; text-align: center;">
+<p align="center">
     <img src="Files\Fig5.svg" style="height:20%;width:90%">
-</div>
+</p>
 
 ---
 
