@@ -28,46 +28,46 @@ time period.
 <table>
 <thead>
   <tr>
-    <th>Feature</th>
-    <th>Database 1 (Low Concentration & Mixtures)</th>
-    <th>Database 2 (High Concentration)</th>
+    <th style="font-size: 13px;">Feature</th>
+    <th style="font-size: 13px;">Database 1 (Low Concentration & Mixtures)</th>
+    <th style="font-size: 13px;">Database 2 (High Concentration)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Goal</td>
-    <td>Assess e-nose performance for low explosive concentrations and complex mixtures.</td>
-    <td>Evaluate e-nose's ability to predict explosives at higher concentrations.</td>
+    <td style="font-size: 12px;">Goal</td>
+    <td style="font-size: 12px;">Assess e-nose performance for low explosive concentrations and complex mixtures.</td>
+    <td style="font-size: 12px;">Evaluate e-nose's ability to predict explosives at higher concentrations.</td>
   </tr>
   <tr>
-    <td>Substances</td>
-    <td>TNT, Gunpowder, Alcohol (2ml), Toothpaste & Soap</td>
-    <td>TNT, Gunpowder, Alcohol (1ml)</td>
+    <td style="font-size: 12px;">Substances</td>
+    <td style="font-size: 12px;">TNT, Gunpowder, Alcohol (2ml), Toothpaste & Soap</td>
+    <td style="font-size: 12px;">TNT, Gunpowder, Alcohol (1ml)</td>
   </tr>
   <tr>
-    <td>Concentration range</td>
-    <td>0.1g to 3g</td>
-    <td>3g to 5g</td>
+    <td style="font-size: 12px;">Concentration range</td>
+    <td style="font-size: 12px;">0.1g to 3g</td>
+    <td style="font-size: 12px;">3g to 5g</td>
   </tr>
   <tr>
-    <td>Total experiments</td>
-    <td>142</td>
-    <td>63</td>
+    <td style="font-size: 12px;">Total experiments</td>
+    <td style="font-size: 12px;">142</td>
+    <td style="font-size: 12px;">63</td>
   </tr>
   <tr>
-    <td>Number of samples per experiment (m)</td>
-    <td>650</td>
-    <td>1800</td>
+    <td style="font-size: 12px;">Number of samples per experiment</td>
+    <td style="font-size: 12px;">650</td>
+    <td style="font-size: 12px;">1800</td>
   </tr>
   <tr>
-    <td>Number of chemical sensors per experiment (n)</td>
-    <td>6</td>
-    <td>6</td>
+    <td style="font-size: 12px;">Number of chemical sensors per experiment</td>
+    <td style="font-size: 12px;">6</td>
+    <td style="font-size: 12px;">6</td>
   </tr>
   <tr>
-    <td>Sampling frequency per experiment</td>
-    <td>1 Hz</td>
-    <td>10 Hz</td>
+    <td style="font-size: 12px;">Sampling frequency per experiment</td>
+    <td style="font-size: 12px;">1Hz</td>
+    <td style="font-size: 12px;">10Hz</td>
   </tr>
   </tbody>
 </table>
